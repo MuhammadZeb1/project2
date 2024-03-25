@@ -1,0 +1,19 @@
+footer{
+    background-color: aquamarine;
+    border: 2px solid black;
+}
+  nav,a{
+    display: inline;
+    margin: 30px;
+    background-color: rgb(43, 49, 54);
+    color: antiquewhite;             
+}
+.lastname{
+    margin-left: 286px;
+}
+.name{
+    margin-left: 190px;
+}
+audio{
+    visibility: hidden;
+}
