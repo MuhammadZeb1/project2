@@ -1,0 +1,17 @@
+thead{
+    background-color: yellowgreen;
+}
+table{
+    width: 700px;
+    border: 5px solid black;
+    align: center;
+}
+th,td{
+    border: 2px solid black;  
+}
+nav,a{
+    display: inline;
+    margin: 30px;
+    background-color: rgb(43, 49, 54);
+    color: antiquewhite;             
+}
